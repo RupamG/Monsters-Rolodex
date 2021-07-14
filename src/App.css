@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Qahiri&display=swap");
+.App {
+  text-align: center;
+}
+h1 {
+  font-family: "Qahiri", sans-serif;
+  font-size: 72px;
+  color: #0ccac4;
+}
